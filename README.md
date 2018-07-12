@@ -26,5 +26,8 @@ Analysis & K-means clustering with Test Career Bowling DataSet"(R) &I got this d
 Implementing a standard L2-regularized support vector machine (SVM) in primal form using tensorflow. credit:eakbas
 [GitHub Page](https://github.com/IIITian-Chandan/100DaysOfMLCode/tree/master/6th%20Day)
 
+## Seventh Day(12/07/2018) : :
+I have used CART algorithm for the Bank Note dataset for decision tree. It will show the average classification accuracy on each fold as well as the average performance across all folds.
+[GitHub Page](https://github.com/IIITian-Chandan/100DaysOfMLCode/tree/master/7th%20Day)
 
 
