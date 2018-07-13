@@ -30,4 +30,8 @@ Implementing a standard L2-regularized support vector machine (SVM) in primal fo
 I have used CART algorithm for the Bank Note dataset for decision tree. It will show the average classification accuracy on each fold as well as the average performance across all folds.
 [GitHub Page](https://github.com/IIITian-Chandan/100DaysOfMLCode/tree/master/7th%20Day)
 
+## Eight Day(13/07/2018) : :
+The Backpropagation Algorithm in the wheat seeds Dataset.(From Scratch) Network with 5 neurons in the hidden layer and 3 neurons in the output layer.
+[GitHub Page](https://github.com/IIITian-Chandan/100DaysOfMLCode/tree/master/8th%20Day)
+
 
