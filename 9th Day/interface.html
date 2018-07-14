@@ -1,0 +1,148 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pput your text</title>
+
+        <meta charset="utf-8">
+           <!--- basic page needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>MedLife</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+   <!-- mobile specific metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+ 	<!-- CSS
+   ================================================== -->
+   <link rel="stylesheet" href="css/base.css">
+   <link rel="stylesheet" href="css/vendor.min.css">
+   <link rel="stylesheet" href="css/main.css">
+
+   <!-- script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+
+   <!-- favicons
+	================================================== -->
+
+        <style>
+        body{
+          background: #108dc7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ef8e38, #108dc7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ef8e38, #108dc7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+        }
+
+            input[type=text],input[type=email],input[type=number], select, textarea {
+
+                padding: 12px;
+                border: 1px solid #ccc;
+                border-radius: 6px;
+                box-sizing: border-box;
+                margin-top: 6px;
+                resize: vertical;
+            }
+
+            input[type=submit] {
+                background-color: black;
+                color: white;
+                padding: 12px 20px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+            label {
+                margin-top: 16px;
+                display: block;
+            }
+
+            input[type=submit]:hover {
+                background-color: #45a049;
+            }
+
+            textarea {
+                height:200px;
+                width:100%;
+            }
+            .submit {
+                margin-top: 10px;
+            }
+            .container {
+
+                border-radius: 25px;
+                background-color: rgba(242, 242, 242, 0.7);
+
+                padding: 20px;
+                width: 1780px;
+                margin: 40px auto;
+                width:50%;
+
+            }
+            .required-label {
+                font-size: 13px;
+                color: red;
+                margin-top: 5px;
+            }
+            .message {
+                color: green;
+                margin-top: 15px;
+            }
+            .message .error {
+                color: red;
+            }
+            .loading {
+                width: 16px;
+                padding-left: 15px;
+                display: none;
+            }
+            #contact-form .disabled {
+                color: white;
+                background: gray;
+            }
+            @media(max-width: 1169px) {
+                .container {
+                    width: 80%;
+                }
+            }
+        </style>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    </head>
+    <body>
+        <br><br>
+        <header id="main-header">
+
+   	<div class="row"">
+
+	      <!-- end #nav -->
+
+
+      </nav> <!-- end #nav-wrap -->
+
+
+
+	   </div>
+
+
+   </header> <!-- end header -->
+        <div class="container">
+            <h1>Put your text here..</h1>
+            <form action = "http://localhost:5000/login" method = "post">
+
+                <input type="text" name="txt" placeholder="Your text.." class="field-required">
+
+                <input type="submit" value="Submit" name="submit" class="submit" id="submit">
+
+            </form>
+
+        </div>
+        <div class="message"></div>
+
+     </body>
+
+</html>
