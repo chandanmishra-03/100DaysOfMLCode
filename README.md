@@ -34,4 +34,20 @@ I have used CART algorithm for the Bank Note dataset for decision tree. It will 
 The Backpropagation Algorithm in the wheat seeds Dataset.(From Scratch) Network with 5 neurons in the hidden layer and 3 neurons in the output layer.
 [GitHub Page](https://github.com/IIITian-Chandan/100DaysOfMLCode/tree/master/8th%20Day)
 
+## Ninth Day(14/07/2018) : :
+Extracting day,time and dates(that are in different pattern) from a sentence.(hackathon problem)
+[GitHub Page](https://github.com/IIITian-Chandan/100DaysOfMLCode/tree/master/9th%20Day)
+
+## Tenth Day(15/07/2018) : :
+The classification is to predict whether the client will subscribe to a term deposit or not using a banking dataset.(Logistic regression)
+[GitHub Page](https://github.com/IIITian-Chandan/100DaysOfMLCode/tree/master/10th%20Day)
+
+## Eleventh Day(16/07/2018) : :
+Implementing basic KNN algorithm(Non parametric Classification Algorithm) using Tensorflow.
+[GitHub Page](https://github.com/IIITian-Chandan/100DaysOfMLCode/tree/master/11th%20Day)
+
+## Twelfth Day(17/07/2018) : :
+K-Means Clustering using Python from Scratch.
+[GitHub Page](https://github.com/IIITian-Chandan/100DaysOfMLCode/tree/master/12th%20Day)
+
 
